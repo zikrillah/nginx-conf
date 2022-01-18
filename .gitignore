@@ -1,0 +1,6 @@
+# Ignore files
+fastcgi_params
+modules
+scgi_params
+uwsgi_params
+mime.types
